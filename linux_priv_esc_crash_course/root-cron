@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+PATH=/home/ctf/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+* * * * * /usr/local/sbin/backup.sh
